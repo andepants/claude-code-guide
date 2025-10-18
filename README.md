@@ -13,3 +13,14 @@ Current Claude Code flow is:
 
 - plan-coordinator.md
 - task-executor.md
+
+## Terminal Shortcuts
+
+| Shortcut | Action |
+|----------|--------|
+| `Ctrl + Shift + ~` | New terminal |
+| `Cmd + \` | New terminal in group |
+| `Shift + Cmd + [` | Terminal navigation |
+| `Option + Cmd + ←/→` | Terminal group navigation |
+| `Ctrl + C` | Interrupt terminal |
+| `Ctrl + D` | Close terminal |
