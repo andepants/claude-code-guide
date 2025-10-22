@@ -7,6 +7,8 @@
 - Run multiple claude instances
 - Press Tab to turn on "thinking on"
 - ctrl + r to search for past prompts
+- tell claude "parallelize tasks" to speed up development
+- tell claude to "use sub-agents" to invoke seperate context window agents.
 
 ### Commands
 Create commands in .claude/commands/example.md … run /examples to automate prompts
