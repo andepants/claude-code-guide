@@ -24,8 +24,8 @@
 - [serena](https://github.com/oraios/serena) - give agent better tools to search repo = save tokens [Serena quick setup guide](https://github.com/anthropics/claude-code)
 
 ### Other Links
-- https://www.anthropic.com/engineering/claude-code-best-practices
-- https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents
+- [claude-code-best-practices](https://www.anthropic.com/engineering/claude-code-best-practices)
+- [effective-context-engineering-for-ai-agents](https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents)
 
 ## Terminal Shortcuts
 
