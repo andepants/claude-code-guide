@@ -18,6 +18,7 @@ Create custom commands in .claude/commands/example.md … run /examples to autom
 - "/help" to show all commands you should know
 - "/doctor" to update cc
 - "/config" to turn off auto compact - save context
+- "/usage" to check usage
 
 ### Advanced
 - Run multiple worktrees
