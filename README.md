@@ -2,17 +2,19 @@
 ## Vibe Code Claude Primer
 
 ### ESSENTIALS
-- Type "ultrathink" when using plane mode
-- Type "/init to auto-generate initial CLAUDE.md (used in prompts to understand your repo better)
+- Type "ultrathink" when using plan mode to increase AI's "thinking budget"
 - YOLO MODE: Use "claude --dangerously-skip-permissions" to save time for your kids
-- Run "/clear" when changing context
 - Run multiple claude instances
-- /context to check your usage
-- Create commands in .claude/commands/example.md … run /examples to automate prompts
 - Press Tab to turn on "thinking on"
-- Ctr + r to search for past prompts
-- Run "/help" to show all commands you should know
-- /doctor to update cc
+- ctrl + r to search for past prompts
+
+### Commands
+Create commands in .claude/commands/example.md … run /examples to automate prompts
+- "/init" to auto-generate initial CLAUDE.md (used in prompts to understand your repo better)
+- "/clear" when changing context
+- "/context" to check your usage
+- "/help" to show all commands you should know
+- "/doctor" to update cc
 - "/config" to turn off auto compact - save context
 
 ### Advanced
