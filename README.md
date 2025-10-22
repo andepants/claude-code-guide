@@ -34,8 +34,8 @@
 - [BMAD](https://github.com/bmad-code-org/BMAD-METHOD?tab=readme-ov-file)
 
 ### MCPS
-- context7 - get up to date docs
-- serena - give agent better tools to search repo = save tokens [Serena quick setup guide](https://github.com/anthropics/claude-code)
+- [context7](https://github.com/upstash/context7) - get up to date docs
+- [serena](https://github.com/oraios/serena) - give agent better tools to search repo = save tokens [Serena quick setup guide](https://github.com/anthropics/claude-code)
 
 ### Other Links
 - https://www.anthropic.com/engineering/claude-code-best-practices
