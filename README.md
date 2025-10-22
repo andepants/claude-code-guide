@@ -11,7 +11,7 @@
 - tell claude to "use sub-agents" to invoke seperate context window agents.
 
 ### Commands
-Create commands in .claude/commands/example.md … run /examples to automate prompts
+Create custom commands in .claude/commands/example.md … run /examples to automate prompts
 - "/init" to auto-generate initial CLAUDE.md (used in prompts to understand your repo better)
 - "/clear" when changing context
 - "/context" to check your usage
