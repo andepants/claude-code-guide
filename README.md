@@ -42,3 +42,4 @@ Create custom commands in .claude/commands/example.md … run /examples to autom
 | `Option + Cmd + ←/→` | Terminal group navigation |
 | `Ctrl + C` | Interrupt terminal |
 | `Ctrl + D` | Close terminal |
+
